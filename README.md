@@ -94,15 +94,15 @@ Each folder contains 12 files, one for each hydrographic region: East Atlantic (
 
 1. delimiter: semicolon
 
-2. Rows (1-15) contain the following general information:
+2. Rows (1-7) contain the following general information:
 
-- Gauge code
+- Gaugecode: national code of the streamflow gauge
 - Latitude
 - Longitude
-- Altitude
+- Altitude: altitude at which the gauge is located
 - watershedarea: drainage area in km2.
-- River: name of the river
-- Municipality: name of the municipality
+- River: name of the river where the gauge is located
+- Municipality: name of the municipality where the gauge is located
 
 3. The remaining rows contain the year and the value of the flow index for that year. There are two columns for each gauge. Therefore, the total number of columns is always twice the number of gauges.
 
