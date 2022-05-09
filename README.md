@@ -96,21 +96,13 @@ Each folder contains 12 files, one for each hydrographic region: East Atlantic (
 
 2. Rows (1-15) contain the following general information:
 
-- BaciaCodigo: code of the river basin
-- SubBaciaCodigo: code of the river sub-basin
-- Estacao_codigo: code of the gauge
+- Gauge code
 - Latitude
 - Longitude
 - Altitude
-- AreaDrenagem: drainage area in km2.
-- OrigemSerie: ? (Saulo)
-- DescricaoOrigemSerie: type of flow index (Saulo, acho que está errao no arquivo)
-- DiscretizaçãoTemporária: time scale. In this case, all series contain annaul values (A)
-- TipodeDado: type of flow index
-- MesAnoHidro: ? (Saulo)
-- NomeEstacao: name of the gauge
-- NomedoRio: name of the river
-- Municipio: name of the municipality
+- watershedarea: drainage area in km2.
+- River: name of the river
+- Municipality: name of the municipality
 
 3. The remaining rows contain the year and the value of the flow index for that year. There are two columns for each gauge. Therefore, the total number of columns is always twice the number of gauges.
 
