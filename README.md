@@ -1,6 +1,6 @@
 # flow_extreme_indices_Brazil_dataset
 
-This dataset readme file was created by Dirceu Silveira Reis Junior on 2022-05-07.
+This dataset readme file was created by Saulo Aies de Souza and Dirceu Silveira Reis Junior on 2022-05-07.
 
 ### General information
 
@@ -99,17 +99,16 @@ Each folder contains 12 files, one for each hydrographic region: East Atlantic (
 - Gaugecode: national code of the streamflow gauge
 - Latitude
 - Longitude
-- Altitude: altitude at which the gauge is located
+- Altitude: altitude at which gauge is located
 - watershedarea: drainage area in km2.
-- River: name of the river where the gauge is located
-- Municipality: name of the municipality where the gauge is located
+- River: name of the river where gauge is located
+- Municipality: name of the municipality where gauge is located
 
 3. The remaining rows contain the year and the value of the flow index for that year. There are two columns for each gauge. Therefore, the total number of columns is always twice the number of gauges.
 
 4. "null" means there is no information for that year.
 
-
 5. The number of rows and columns vary depending on the flow index and the hydrographic region.
 
-6. All values of flow indeces are preseted in m3/s.
+6. All values of flow indeces are presented in m3/s.
 
