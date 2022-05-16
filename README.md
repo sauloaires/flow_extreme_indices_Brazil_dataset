@@ -1,4 +1,6 @@
 # flow_extreme_indices_Brazil_dataset
+[![DOI](https://zenodo.org/badge/490340976.svg)](https://zenodo.org/badge/latestdoi/490340976)
+
 
 This dataset readme file was created by Saulo Aies de Souza and Dirceu Silveira Reis Junior on 2022-05-07.
 
