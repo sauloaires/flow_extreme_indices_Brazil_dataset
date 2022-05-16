@@ -50,7 +50,7 @@ SHARING/ACCESS INFORMATION
 
 5. Was data derived from another source? No
 
-6. Recommended citation for the data: Souza, Saulo A., Reis, Dirceu S Jr (2022) Data from: Trend detection in annual streamflow extremes in Brazil [Dataset]. GitHub Repository. ([![DOI](https://zenodo.org/badge/490340976.svg)](https://zenodo.org/badge/latestdoi/490340976))
+6. Recommended citation for the data: Souza, Saulo A., Reis, Dirceu S Jr (2022) Data from: Trend detection in annual streamflow extremes in Brazil [Dataset]. GitHub Repository. ([![doi:10.5281/zenodo.6551909](https://zenodo.org/badge/490340976.svg)](https://zenodo.org/badge/latestdoi/490340976))
 
 ---------------------
 DATA & FILE OVERVIEW
